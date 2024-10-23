@@ -1,1 +1,1 @@
-# machine-learning-for-financial-data-analysis
+# Machine-learning-for-financial-data-analysis
